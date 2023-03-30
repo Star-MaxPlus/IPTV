@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,11 - Universo
-http://1.1.1.6/0.m3u8
+http://172.16.1.200:80/hdmi
 #EXTINF:-1,11 - Repretel
 http://172.16.1.2:8000/play/a02b
 #EXTINF:-1,4 Repretel
