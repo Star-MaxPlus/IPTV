@@ -47,6 +47,8 @@ http://172.16.1.2:8000/play/a04v
 http://172.16.1.2:8000/play/a01w
 #EXTINF:-1,Animal Planet HD
 http://172.16.1.2:8000/play/a01m
+#EXTINF:-1,ESTRELLATV HD
+http://172.16.1.2:8000/play/s21a
 #EXTINF:-1,Antena 7- RD
 http://172.16.1.2:8000/play/a00o
 #EXTINF:-1,Azcorazon
