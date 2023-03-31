@@ -1,6 +1,36 @@
 #EXTM3U
-#EXTINF:-1,11 - Universo
-http://172.16.1.200:80/hd01
+#EXTINF:-1,11 - LAS ESTRELLAS
+http://172.16.1.200:80/hdmi
+#EXTINF:-1,11 - TBS
+http://172.16.1.201:80/hdmi
+#EXTINF:-1,11 - TELEHIT
+http://172.16.1.202:80/hdmi
+#EXTINF:-1,11 - MEXICANAL
+http://172.16.1.203:80/hdmi
+#EXTINF:-1,11 - TELEMUNDO
+http://172.16.1.204:80/hdmi
+#EXTINF:-1,11 - D PELICULA
+http://172.16.1.205:80/hdmi
+#EXTINF:-1,11 - CINCO
+http://172.16.1.206:80/hdmi
+#EXTINF:-1,11 - STAR
+http://172.16.1.207:80/hdmi
+#EXTINF:-1,11 - DISTRITO COMEDIA
+http://172.16.1.208:80/hdmi
+#EXTINF:-1,11 - GOLDEN
+http://172.16.1.209:80/hdmi
+#EXTINF:-1,11 - UNIVERSO
+http://172.16.1.210:80/hdmi
+#EXTINF:-1,11 - TLNOVELAS
+http://172.16.1.211:80/hdmi
+#EXTINF:-1,11 - PENDIENTE
+http://172.16.1.212:80/hdmi
+#EXTINF:-1,11 - BEIN SPORT
+http://172.16.1.213:80/hdmi
+#EXTINF:-1,11 - ESTRELLA TV
+http://172.16.1.214:80/hdmi
+#EXTINF:-1,11 - CANAL 27
+http://172.16.1.215:80/hdmi
 #EXTINF:-1,11 - Repretel
 http://172.16.1.2:8000/play/a02b
 #EXTINF:-1,4 Repretel
