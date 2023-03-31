@@ -63,17 +63,17 @@ http://172.16.1.2:8000/play/a03l
 http://172.16.1.2:8000/play/a98m
 #EXTINF:-1,CNNE
 http://172.16.1.2:8000/play/a01b
-#EXTINF:-1,Canal 11 - GUA
+#EXTINF:-1,TELEONCE
 http://172.16.1.2:8000/play/a022
-#EXTINF:-1,Canal 13-GUA
+#EXTINF:-1,TRECEVISION
 http://172.16.1.2:8000/play/a021
-#EXTINF:-1,Canal 3 - GUA
+#EXTINF:-1,CANAL 3
 http://172.16.1.2:8000/play/a02y
-#EXTINF:-1,Canal 7 - GUA
+#EXTINF:-1,TELEVISIETE
 http://172.16.1.2:8000/play/a02x
-#EXTINF:-1,Canal Antigua - GUA
+#EXTINF:-1,Canal Antigua
 http://172.16.1.2:8000/play/a02v
-#EXTINF:-1,Canal Azteca - GUA
+#EXTINF:-1,AZTECA GUATEMALA
 http://172.16.1.2:8000/play/a02w
 #EXTINF:-1,Canal del Congreso
 http://172.16.1.2:8000/play/a045
@@ -153,7 +153,7 @@ http://172.16.1.2:8000/play/a015
 http://172.16.1.2:8000/play/a01d
 #EXTINF:-1,Golden
 http://172.16.1.2:8000/play/a02p
-#EXTINF:-1,Guatevision - GUA
+#EXTINF:-1,GUATEVISION
 http://172.16.1.2:8000/play/a00m
 #EXTINF:-1,H2
 http://172.16.1.2:8000/play/a02g
