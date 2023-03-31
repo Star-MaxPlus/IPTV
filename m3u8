@@ -59,6 +59,8 @@ http://172.16.1.2:8000/play/a02c
 http://172.16.1.2:8000/play/a00d
 #EXTINF:-1,CINECANAL HD
 http://172.16.1.2:8000/play/a03l
+#EXTINF:-1,TELEMUNDO MIAMI
+http://172.16.1.2:8000/play/a98m
 #EXTINF:-1,CNNE
 http://172.16.1.2:8000/play/a01b
 #EXTINF:-1,Canal 11 - GUA
