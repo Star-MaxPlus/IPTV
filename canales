@@ -1,0 +1,285 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://172.16.1.2:8001/canal.m3u8
+#EXTINF:-1,AMC
+http://172.16.1.2:8003/canal.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://172.16.1.2:8005/canal.m3u8
+#EXTINF:-1,ANTENA 7
+http://172.16.1.2:8007/canal.m3u8
+#EXTINF:-1,AXN
+http://172.16.1.2:8008/canal.m3u8
+#EXTINF:-1,AZ CLICK
+http://172.16.1.2:8010/canal.m3u8
+#EXTINF:-1,AZ CORAZON
+http://172.16.1.2:8011/canal.m3u8
+#EXTINF:-1,AZ MUNDO
+http://172.16.1.2:8012/canal.m3u8
+#EXTINF:-1,AZTECA 7
+http://172.16.1.2:8013/canal.m3u8
+#EXTINF:-1,AZTECA GUATE
+http://172.16.1.2:8015/canal.m3u8
+#EXTINF:-1,BABY FIRTS
+http://172.16.1.2:8016/canal.m3u8
+#EXTINF:-1,BBC
+http://172.16.1.2:8017/canal.m3u8
+#EXTINF:-1,CANAL
+http://172.16.1.2:8018/canal.m3u8
+#EXTINF:-1,CANAL 27
+http://172.16.1.2:8019/canal.m3u8
+#EXTINF:-1,CANAL 3 EL SUPER CANAL
+http://172.16.1.2:8021/canal.m3u8
+#EXTINF:-1,CANAL 5
+http://172.16.1.2:8022/canal.m3u8
+#EXTINF:-1,CANAL ANTIGUA
+http://172.16.1.2:8024/canal.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://172.16.1.2:8025/canal.m3u8
+#EXTINF:-1,CANAL DEL CONGRESO
+http://172.16.1.2:8027/canal.m3u8
+#EXTINF:-1,CARTOON NT
+http://172.16.1.2:8029/canal.m3u8
+#EXTINF:-1,CARTOONITO
+http://172.16.1.2:8030/canal.m3u8
+#EXTINF:-1,CINE LATINO
+http://172.16.1.2:8031/canal.m3u8
+#EXTINF:-1,CINECANAL
+http://172.16.1.2:8032/canal.m3u8
+#EXTINF:-1,CINEMAX
+http://172.16.1.2:8034/canal.m3u8
+#EXTINF:-1,CNN
+http://172.16.1.2:8035/canal.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://172.16.1.2:8036/canal.m3u8
+#EXTINF:-1,DE PELICULA
+http://172.16.1.2:8037/canal.m3u8
+#EXTINF:-1,DEPORTES
+http://172.16.1.2:8039/canal.m3u8
+#EXTINF:-1,DHE
+http://172.16.1.2:8041/canal.m3u8
+#EXTINF:-1,DIGITAL 15
+http://172.16.1.2:8043/canal.m3u8
+#EXTINF:-1,DISCOVERY THEATHER
+http://172.16.1.2:8044/canal.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://172.16.1.2:8045/canal.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://172.16.1.2:8047/canal.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://172.16.1.2:8048/canal.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://172.16.1.2:8049/canal.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://172.16.1.2:8050/canal.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://172.16.1.2:8051/canal.m3u8
+#EXTINF:-1,DISNEY
+http://172.16.1.2:8052/canal.m3u8
+#EXTINF:-1,DISNEY JR
+http://172.16.1.2:8053/canal.m3u8
+#EXTINF:-1,DISTRUTO COMEDIA
+http://172.16.1.2:8054/canal.m3u8
+#EXTINF:-1,E!
+http://172.16.1.2:8056/canal.m3u8
+#EXTINF:-1,ENLACE JUVENIL
+http://172.16.1.2:8058/canal.m3u8
+#EXTINF:-1,EL GOURMET
+http://172.16.1.2:8059/canal.m3u8
+#EXTINF:-1,ESPN
+http://172.16.1.2:8060/canal.m3u8
+#EXTINF:-1,ESPN +
+http://172.16.1.2:8061/canal.m3u8
+#EXTINF:-1,ESPN 2
+http://172.16.1.2:8062/canal.m3u8
+#EXTINF:-1,ESPN 3
+http://172.16.1.2:8064/canal.m3u8
+#EXTINF:-1,ESPN 4
+http://172.16.1.2:8066/canal.m3u8
+#EXTINF:-1,ESTRELLA TV
+http://172.16.1.2:8069/canal.m3u8
+#EXTINF:-1,EURO CHANNEL
+http://172.16.1.2:8070/canal.m3u8
+#EXTINF:-1,EUROPA
+http://172.16.1.2:8071/canal.m3u8
+#EXTINF:-1,EWTN
+http://172.16.1.2:8072/canal.m3u8
+#EXTINF:-1,EXA TV
+http://172.16.1.2:8073/canal.m3u8
+#EXTINF:-1,FILM & ARTS
+http://172.16.1.2:8074/canal.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://172.16.1.2:8076/canal.m3u8
+#EXTINF:-1,FOX SPORTS II
+http://172.16.1.2:8079/canal.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://172.16.1.2:8081/canal.m3u8
+#EXTINF:-1,FRANCE 24
+http://172.16.1.2:8082/canal.m3u8
+#EXTINF:-1,FX
+http://172.16.1.2:8083/canal.m3u8
+#EXTINF:-1,GOLDEN
+http://172.16.1.2:8085/canal.m3u8
+#EXTINF:-1,GUATEVISION
+http://172.16.1.2:8086/canal.m3u8
+#EXTINF:-1,H2
+http://172.16.1.2:8087/canal.m3u8
+#EXTINF:-1,HBO
+http://172.16.1.2:8088/canal.m3u8
+#EXTINF:-1,HBO FAMILY
+http://172.16.1.2:8089/canal.m3u8
+#EXTINF:-1,HBO PLUS
+http://172.16.1.2:8090/canal.m3u8
+#EXTINF:-1,HBO XTREAM
+http://172.16.1.2:8091/canal.m3u8
+#EXTINF:-1,HBO2
+http://172.16.1.2:8092/canal.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://172.16.1.2:8093/canal.m3u8
+#EXTINF:-1,HOLA! TV
+http://172.16.1.2:8095/canal.m3u8
+#EXTINF:-1,HOME & HEALTH
+http://172.16.1.2:8096/canal.m3u8
+#EXTINF:-1,HTV
+http://172.16.1.2:8097/canal.m3u8
+#EXTINF:-1,ID
+http://172.16.1.2:8098/canal.m3u8
+#EXTINF:-1,ISAT
+http://172.16.1.2:8099/canal.m3u8
+#EXTINF:-1,LATIN AMERICA SPORT
+http://172.16.1.2:8100/canal.m3u8
+#EXTINF:-1,MTV
+http://172.16.1.2:8101/canal.m3u8
+#EXTINF:-1,MTV 00s
+http://172.16.1.2:8102/canal.m3u8
+#EXTINF:-1,MTV 80s
+http://172.16.1.2:8104/canal.m3u8
+#EXTINF:-1,MTV HITS
+http://172.16.1.2:8105/canal.m3u8
+#EXTINF:-1,MTV SIM
+http://172.16.1.2:8107/canal.m3u8
+#EXTINF:-1,MULTICINEMA
+http://172.16.1.2:8108/canal.m3u8
+#EXTINF:-1,MULTIMEDIOS
+http://172.16.1.2:8109/canal.m3u8
+#EXTINF:-1,NAT GEO
+http://172.16.1.2:8110/canal.m3u8
+#EXTINF:-1,NICK JR
+http://172.16.1.2:8113/canal.m3u8
+#EXTINF:-1,NICK SIM
+http://172.16.1.2:8114/canal.m3u8
+#EXTINF:-1,NICK
+http://172.16.1.2:8115/canal.m3u8
+#EXTINF:-1,NUEVA VISION
+http://172.16.1.2:8116/canal.m3u8
+#EXTINF:-1,PARAMOUNT
+http://172.16.1.2:8117/canal.m3u8
+#EXTINF:-1,PASIONES
+http://172.16.1.2:8119/canal.m3u8
+#EXTINF:-1,RCN
+http://172.16.1.2:8120/canal.m3u8
+#EXTINF:-1,RCN NOVELAS
+http://172.16.1.2:8121/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 11
+http://172.16.1.2:8122/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 4
+http://172.16.1.2:8123/canal.m3u8
+#EXTINF:-1,REPRETEL CANAL 6
+http://172.16.1.2:8124/canal.m3u8
+#EXTINF:-1,RHEMA TV
+http://172.16.1.2:8125/canal.m3u8
+#EXTINF:-1,SEMBRADOR
+http://172.16.1.2:8126/canal.m3u8
+#EXTINF:-1,SEMILLITAS
+http://172.16.1.2:8127/canal.m3u8
+#EXTINF:-1,SONY
+http://172.16.1.2:8128/canal.m3u8
+#EXTINF:-1,SONY MOVIE
+http://172.16.1.2:8129/canal.m3u8
+#EXTINF:-1,SPACE
+http://172.16.1.2:8131/canal.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://172.16.1.2:8133/canal.m3u8
+#EXTINF:-1,TVE
+http://172.16.1.2:8135/canal.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://172.16.1.2:8136/canal.m3u8
+#EXTINF:-1,SUN CHANNEL
+http://172.16.1.2:8138/canal.m3u8
+#EXTINF:-1,SyFy
+http://172.16.1.2:8139/canal.m3u8
+#EXTINF:-1,ENLACE
+http://172.16.1.2:8140/canal.m3u8
+#EXTINF:-1,TBS
+http://172.16.1.2:8141/canal.m3u8
+#EXTINF:-1,TCM
+http://172.16.1.2:8142/canal.m3u8
+#EXTINF:-1,TEEN NICK
+http://172.16.1.2:8143/canal.m3u8
+#EXTINF:-1,TELE ANTILLAS
+http://172.16.1.2:8144/canal.m3u8
+#EXTINF:-1,TELEHIT
+http://172.16.1.2:8145/canal.m3u8
+#EXTINF:-1,TELEMICRO
+http://172.16.1.2:8147/canal.m3u8
+#EXTINF:-1,TELEMUNDO
+http://172.16.1.2:8148/canal.m3u8
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+http://172.16.1.2:8149/canal.m3u8
+#EXTINF:-1,TELEONCE
+http://172.16.1.2:8152/canal.m3u8
+#EXTINF:-1,TELESISTEMA
+http://172.16.1.2:8153/canal.m3u8
+#EXTINF:-1,TELEUNION
+http://172.16.1.2:8154/canal.m3u8
+#EXTINF:-1,TELEUNIVERSO
+http://172.16.1.2:8155/canal.m3u8
+#EXTINF:-1,TELEVIDA
+http://172.16.1.2:8156/canal.m3u8
+#EXTINF:-1,TELEVISIETE
+http://172.16.1.2:8157/canal.m3u8
+#EXTINF:-1,TLC
+http://172.16.1.2:8158/canal.m3u8
+#EXTINF:-1,TLNOVELAS
+http://172.16.1.2:8159/canal.m3u8
+#EXTINF:-1,TN23
+http://172.16.1.2:8161/canal.m3u8
+#EXTINF:-1,TNT
+http://172.16.1.2:8162/canal.m3u8
+#EXTINF:-1,TNT SERIES
+http://172.16.1.2:8164/canal.m3u8
+#EXTINF:-1,TOONCAST
+http://172.16.1.2:8166/canal.m3u8
+#EXTINF:-1,TRECEVISION
+http://172.16.1.2:8167/canal.m3u8
+#EXTINF:-1,TRU TV
+http://172.16.1.2:8168/canal.m3u8
+#EXTINF:-1,TUDN
+http://172.16.1.2:8169/canal.m3u8
+#EXTINF:-1,TVE
+http://172.16.1.2:8171/canal.m3u8
+#EXTINF:-1,UNICABLE
+http://172.16.1.2:8172/canal.m3u8
+#EXTINF:-1,UNIMAS
+http://172.16.1.2:8174/canal.m3u8
+#EXTINF:-1,UNIVISION TLNOVELAS
+http://172.16.1.2:8176/canal.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://172.16.1.2:8178/canal.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://172.16.1.2:8179/canal.m3u8
+#EXTINF:-1,UNIVERSAL CRIME
+http://172.16.1.2:8180/canal.m3u8
+#EXTINF:-1,UNIVERSAL PRIME E
+http://172.16.1.2:8181/canal.m3u8
+#EXTINF:-1,UNIVERSAL PRIME O
+http://172.16.1.2:8182/canal.m3u8
+#EXTINF:-1,UNIVERSAL REALITY
+http://172.16.1.2:8183/canal.m3u8
+#EXTINF:-1,UNIVERSO
+http://172.16.1.2:8185/canal.m3u8
+#EXTINF:-1,UNIVISION
+http://172.16.1.2:8187/canal.m3u8
+#EXTINF:-1,UNIVISION INTERNACIONAL
+http://172.16.1.2:8188/canal.m3u8
+#EXTINF:-1,WARNER
+http://172.16.1.2:8190/canal.m3u8
