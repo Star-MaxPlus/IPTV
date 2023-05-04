@@ -1,3 +1,28 @@
+#EXTM3U
+#EXTINF:-1,A&E
+http://172.16.1.2:8001/canal.m3u8
+#EXTINF:-1,AMC
+http://172.16.1.2:8003/canal.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://172.16.1.2:8005/canal.m3u8
+#EXTINF:-1,ANTENA 7
+http://172.16.1.2:8007/canal.m3u8
+#EXTINF:-1,AXN
+http://172.16.1.2:8008/canal.m3u8
+#EXTINF:-1,AZ CLICK
+http://172.16.1.2:8010/canal.m3u8
+#EXTINF:-1,AZ CORAZON
+http://172.16.1.2:8011/canal.m3u8
+#EXTINF:-1,AZ MUNDO
+http://172.16.1.2:8012/canal.m3u8
+#EXTINF:-1,AZTECA 7
+http://172.16.1.2:8013/canal.m3u8
+#EXTINF:-1,AZTECA GUATE
+http://172.16.1.2:8015/canal.m3u8
+#EXTINF:-1,BABY FIRTS
+http://172.16.1.2:8016/canal.m3u8
+#EXTINF:-1,BBC
+http://172.16.1.2:8017/canal.m3u8
 #EXTINF:-1,CANAL
 http://172.16.1.2:8018/canal.m3u8
 #EXTINF:-1,CANAL 27
