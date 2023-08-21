@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,PENIEL
+http://172.16.1.2:8381/canal.m3u8
+#EXTINF:-1,REDCOM TV
+http://172.16.1.2:8380/canal.m3u8
 #EXTINF:-1,A&E
 http://172.16.1.2:8001/canal.m3u8
 #EXTINF:-1,AMC
