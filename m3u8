@@ -10,7 +10,7 @@ http://172.16.1.2:8003/canal.m3u8
 #EXTINF:-1,AMC SD
 http://172.16.1.2:8004/canal.m3u8
 #EXTINF:-1,AXN
-http://172.16.1.2:8008/canal.m3u8
+http://172.16.1.2:8008/canal.m3u8?ts
 #EXTINF:-1,AXN SD
 http://172.16.1.2:8009/canal.m3u8
 #EXTINF:-1,AZ click
