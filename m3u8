@@ -1,347 +1,323 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",6 - Repretel
-http://172.16.1.2:8000/play/a08k?ts
+http://192.168.200.2:8000/play/a08k
 #EXTINF:-1 group-title="-",A&E
-http://172.16.1.2:8000/play/a01p?ts
+http://192.168.200.2:8000/play/a01p
 #EXTINF:-1 group-title="-",A&E SD
-http://172.16.1.2:8000/play/a038?ts
+http://192.168.200.2:8000/play/a038
 #EXTINF:-1 group-title="-",AMC
-http://172.16.1.2:8000/play/a01q?ts
+http://192.168.200.2:8000/play/a01q
 #EXTINF:-1 group-title="-",AMC SD
-http://172.16.1.2:8000/play/a01a?ts
+http://192.168.200.2:8000/play/a01a
 #EXTINF:-1 group-title="-",AXN
-http://172.16.1.2:8000/play/a04v?ts
+http://192.168.200.2:8000/play/a04v
 #EXTINF:-1 group-title="-",AXN SD
-http://172.16.1.2:8000/play/a018?ts
+http://192.168.200.2:8000/play/a018
 #EXTINF:-1 group-title="-",AZ click
-http://172.16.1.2:8000/play/a01w?ts
+http://192.168.200.2:8000/play/a01w
 #EXTINF:-1 group-title="-",AZTECA 7
-http://172.16.1.2:8000/play/azteca7?ts
+http://192.168.200.2:8000/play/azteca7
 #EXTINF:-1 group-title="-",Animal Planet
-http://172.16.1.2:8000/play/a01m?ts
+http://192.168.200.2:8000/play/a01m
 #EXTINF:-1 group-title="-",Animal Planet SD
-http://172.16.1.2:8000/play/a03b?ts
-#EXTINF:-1 group-title="-",Antena 7
-http://172.16.1.2:8000/play/a00o?ts
+http://192.168.200.2:8000/play/a03b
 #EXTINF:-1 group-title="-",Azcorazon
-http://172.16.1.2:8000/play/a00z?ts
+http://192.168.200.2:8000/play/a00z
 #EXTINF:-1 group-title="-",Azmundo
-http://172.16.1.2:8000/play/a034?ts
+http://192.168.200.2:8000/play/a034
 #EXTINF:-1 group-title="-",Azteca Guatemala
-http://172.16.1.2:8000/play/a02w?ts
+http://192.168.200.2:8000/play/a02w
 #EXTINF:-1 group-title="-",Azteca Uno
-http://172.16.1.2:8000/play/canal27?ts
+http://192.168.200.2:8000/play/canal27
 #EXTINF:-1 group-title="-",BBC World SD
-http://172.16.1.2:8000/play/a01c?ts
+http://192.168.200.2:8000/play/a01c
 #EXTINF:-1 group-title="-",Baby First
-http://172.16.1.2:8000/play/a02c?ts
+http://192.168.200.2:8000/play/a02c
 #EXTINF:-1 group-title="-",Banda Max
-http://172.16.1.2:8000/play/max2?ts
+http://192.168.200.2:8000/play/max2
+#EXTINF:-1 group-title="-",CANAL 12 EWTN
+http://192.168.200.2:8000/play/a01f
 #EXTINF:-1 group-title="-",CANAL 5
-http://172.16.1.2:8000/play/canal5?ts
+http://192.168.200.2:8000/play/canal5
+#EXTINF:-1 group-title="-",CANAL 6 TELEONCE
+http://192.168.200.2:8000/play/a022
 #EXTINF:-1 group-title="-",CINECANAL
-http://172.16.1.2:8000/play/a03l?ts
+http://192.168.200.2:8000/play/a03l
 #EXTINF:-1 group-title="-",CNNE
-http://172.16.1.2:8000/play/a01b?ts
+http://192.168.200.2:8000/play/a01b
 #EXTINF:-1 group-title="-",Canal 3
-http://172.16.1.2:8000/play/a02y?ts
+http://192.168.200.2:8000/play/a02y
 #EXTINF:-1 group-title="-",Canal Antigua
-http://172.16.1.2:8000/play/a02v?ts
+http://192.168.200.2:8000/play/a02v
 #EXTINF:-1 group-title="-",Canal De Las Estrella
-http://172.16.1.2:8000/play/CANAL2?ts
+http://192.168.200.2:8000/play/CANAL2
 #EXTINF:-1 group-title="-",Canal del Congreso
-http://172.16.1.2:8000/play/a045?ts
+http://192.168.200.2:8000/play/a045
 #EXTINF:-1 group-title="-",Cartoon Network SD
-http://172.16.1.2:8000/play/a00s?ts
+http://192.168.200.2:8000/play/a00s
 #EXTINF:-1 group-title="-",Cartoonito
-http://172.16.1.2:8000/play/a00u?ts
+http://192.168.200.2:8000/play/a00u
 #EXTINF:-1 group-title="-",Cine Latino
-http://172.16.1.2:8000/play/a04o?ts
+http://192.168.200.2:8000/play/a04o
 #EXTINF:-1 group-title="-",CineCanal SD
-http://172.16.1.2:8000/play/a04r?ts
+http://192.168.200.2:8000/play/a04r
 #EXTINF:-1 group-title="-",CineMax
-http://172.16.1.2:8000/play/a04p?ts
+http://192.168.200.2:8000/play/a04p
 #EXTINF:-1 group-title="-",Comedy Central
-http://172.16.1.2:8000/play/a03u?ts
+http://192.168.200.2:8000/play/a03u
 #EXTINF:-1 group-title="-",DE PELICULA
-http://172.16.1.2:8000/play/dpeliculas?ts
+http://192.168.200.2:8000/play/dpeliculas
 #EXTINF:-1 group-title="-",DEPORTES
-http://172.16.1.2:8000/play/deportes?ts
+http://192.168.200.2:8000/play/deportes
 #EXTINF:-1 group-title="-",DHE
-http://172.16.1.2:8000/play/a01v?ts
+http://192.168.200.2:8000/play/a01v
 #EXTINF:-1 group-title="-",DISC THEATHER
-http://172.16.1.2:8000/play/a03r?ts
+http://192.168.200.2:8000/play/a03r
 #EXTINF:-1 group-title="-",DISTRITO COMEDIA
-http://172.16.1.2:8000/play/DC01?ts
+http://192.168.200.2:8000/play/DC01
 #EXTINF:-1 group-title="-",De pelicula
-http://172.16.1.2:8000/play/a08m?ts
-#EXTINF:-1 group-title="-",Digital 15
-http://172.16.1.2:8000/play/a023?ts
+http://192.168.200.2:8000/play/a08m
 #EXTINF:-1 group-title="-",Discovery Channel
-http://172.16.1.2:8000/play/a056?ts
+http://192.168.200.2:8000/play/a056
 #EXTINF:-1 group-title="-",Discovery Channel SD
-http://172.16.1.2:8000/play/a03a?ts
+http://192.168.200.2:8000/play/a03a
 #EXTINF:-1 group-title="-",Discovery Home & Health
-http://172.16.1.2:8000/play/a04e?ts
+http://192.168.200.2:8000/play/a04e
 #EXTINF:-1 group-title="-",Discovery ID HD
-http://172.16.1.2:8000/play/a05a?ts
+http://192.168.200.2:8000/play/a05a
 #EXTINF:-1 group-title="-",Discovery Kids
-http://172.16.1.2:8000/play/a049?ts
+http://192.168.200.2:8000/play/a049
 #EXTINF:-1 group-title="-",Discovery Turbo
-http://172.16.1.2:8000/play/a04d?ts
+http://192.168.200.2:8000/play/a04d
 #EXTINF:-1 group-title="-",Discovery World HD
-http://172.16.1.2:8000/play/a057?ts
+http://192.168.200.2:8000/play/a057
 #EXTINF:-1 group-title="-",Disney
-http://172.16.1.2:8000/play/a04b?ts
+http://192.168.200.2:8000/play/a04b
 #EXTINF:-1 group-title="-",Disney JR
-http://172.16.1.2:8000/play/a00v?ts
+http://192.168.200.2:8000/play/a00v
 #EXTINF:-1 group-title="-",E!
-http://172.16.1.2:8000/play/a01n?ts
+http://192.168.200.2:8000/play/a01n
 #EXTINF:-1 group-title="-",E! SD
-http://172.16.1.2:8000/play/a037?ts
+http://192.168.200.2:8000/play/a037
 #EXTINF:-1 group-title="-",EJTV
-http://172.16.1.2:8000/play/ejtv?ts
+http://192.168.200.2:8000/play/ejtv
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://172.16.1.2:8000/play/a07p?ts
+http://192.168.200.2:8000/play/a07p
 #EXTINF:-1 group-title="-",ESPN 2 SD
-http://172.16.1.2:8000/play/a03f?ts
+http://192.168.200.2:8000/play/a03f
 #EXTINF:-1 group-title="-",ESPN 3 HD
-http://172.16.1.2:8000/play/a07q?ts
+http://192.168.200.2:8000/play/a07q
 #EXTINF:-1 group-title="-",ESPN 3 SD
-http://172.16.1.2:8000/play/a02j?ts
+http://192.168.200.2:8000/play/a02j
 #EXTINF:-1 group-title="-",ESPN 4
-http://172.16.1.2:8000/play/a088?ts
+http://192.168.200.2:8000/play/a088
 #EXTINF:-1 group-title="-",ESPN 5
-http://172.16.1.2:8000/play/a086?ts
+http://192.168.200.2:8000/play/a086
 #EXTINF:-1 group-title="-",ESPN 5  HD
-http://172.16.1.2:8000/play/a087?ts
+http://192.168.200.2:8000/play/a087
 #EXTINF:-1 group-title="-",ESPN 6 HD
-http://172.16.1.2:8000/play/a07r?ts
+http://192.168.200.2:8000/play/a07r
 #EXTINF:-1 group-title="-",ESPN HD
-http://172.16.1.2:8000/play/a07o?ts
+http://192.168.200.2:8000/play/a07o
 #EXTINF:-1 group-title="-",ESPN SD
-http://172.16.1.2:8000/play/a03e?ts
+http://192.168.200.2:8000/play/a03e
 #EXTINF:-1 group-title="-",EURO Channel
-http://172.16.1.2:8000/play/a02f?ts
+http://192.168.200.2:8000/play/a02f
 #EXTINF:-1 group-title="-",EWTN
-http://172.16.1.2:8000/play/a01f?ts
+http://192.168.200.2:8000/play/a08w
+#EXTINF:-1 group-title="-",EWTN
+http://192.168.200.2:8000/play/a08q
 #EXTINF:-1 group-title="-",El Gourmet
-http://172.16.1.2:8000/play/a02h?ts
+http://192.168.200.2:8000/play/a02h
 #EXTINF:-1 group-title="-",Europa HD
-http://172.16.1.2:8000/play/a01t?ts
+http://192.168.200.2:8000/play/a01t
 #EXTINF:-1 group-title="-",Exa TV
-http://172.16.1.2:8000/play/a03g?ts
+http://192.168.200.2:8000/play/a03g
 #EXTINF:-1 group-title="-",FOX SPORT 2.0
-http://172.16.1.2:8000/play/fox2?ts
+http://192.168.200.2:8000/play/fox2
 #EXTINF:-1 group-title="-",FOX SPORTS 3
-http://172.16.1.2:8000/play/a052?ts
-#EXTINF:-1 group-title="-",FUTV HD CR
-http://172.16.1.2:8000/play/a07n?ts
+http://192.168.200.2:8000/play/a052
 #EXTINF:-1 group-title="-",FX
-http://172.16.1.2:8000/play/a01s?ts
+http://192.168.200.2:8000/play/a01s
 #EXTINF:-1 group-title="-",FX SD
-http://172.16.1.2:8000/play/a02d?ts
+http://192.168.200.2:8000/play/a02d
 #EXTINF:-1 group-title="-",Film & arts HD
-http://172.16.1.2:8000/play/a01o?ts
+http://192.168.200.2:8000/play/a01o
 #EXTINF:-1 group-title="-",Fox Sport 3 SD
-http://172.16.1.2:8000/play/a015?ts
+http://192.168.200.2:8000/play/a015
 #EXTINF:-1 group-title="-",France24
-http://172.16.1.2:8000/play/a01d?ts
+http://192.168.200.2:8000/play/a01d
 #EXTINF:-1 group-title="-",Fusion Musical
-http://172.16.1.2:8000/play/univision?ts
+http://192.168.200.2:8000/play/univision
 #EXTINF:-1 group-title="-",Golden
-http://172.16.1.2:8000/play/a02p?ts
+http://192.168.200.2:8000/play/a02p
 #EXTINF:-1 group-title="-",Guatevision
-http://172.16.1.2:8000/play/a00m?ts
+http://192.168.200.2:8000/play/a00m
 #EXTINF:-1 group-title="-",H2
-http://172.16.1.2:8000/play/a02g?ts
+http://192.168.200.2:8000/play/a02g
 #EXTINF:-1 group-title="-",HBO Family HD
-http://172.16.1.2:8000/play/a08e?ts
+http://192.168.200.2:8000/play/a08e
 #EXTINF:-1 group-title="-",HBO HD
-http://172.16.1.2:8000/play/a08b?ts
+http://192.168.200.2:8000/play/a08b
 #EXTINF:-1 group-title="-",HBO Plus HD
-http://172.16.1.2:8000/play/a08d?ts
+http://192.168.200.2:8000/play/a08d
 #EXTINF:-1 group-title="-",HBO XTREME
-http://172.16.1.2:8000/play/a08f?ts
+http://192.168.200.2:8000/play/a08f
 #EXTINF:-1 group-title="-",HBO2 HD
-http://172.16.1.2:8000/play/a08c?ts
+http://192.168.200.2:8000/play/a08c
 #EXTINF:-1 group-title="-",HOLA! TV
-http://172.16.1.2:8000/play/a03t?ts
+http://192.168.200.2:8000/play/a03t
 #EXTINF:-1 group-title="-",HTV
-http://172.16.1.2:8000/play/a02o?ts
+http://192.168.200.2:8000/play/a02o
 #EXTINF:-1 group-title="-",History Channel
-http://172.16.1.2:8000/play/a01g?ts
+http://192.168.200.2:8000/play/a01g
 #EXTINF:-1 group-title="-",History Channel SD
-http://172.16.1.2:8000/play/a03c?ts
+http://192.168.200.2:8000/play/a03c
 #EXTINF:-1 group-title="-",Home & Health
-http://172.16.1.2:8000/play/a03s?ts
+http://192.168.200.2:8000/play/a03s
 #EXTINF:-1 group-title="-",ID
-http://172.16.1.2:8000/play/a04f?ts
+http://192.168.200.2:8000/play/a04f
 #EXTINF:-1 group-title="-",LIFE TIME
-http://172.16.1.2:8000/play/a07j?ts
+http://192.168.200.2:8000/play/a07j
 #EXTINF:-1 group-title="-",Latin America Sport
-http://172.16.1.2:8000/play/a02l?ts
+http://192.168.200.2:8000/play/a02l
 #EXTINF:-1 group-title="-",MTV
-http://172.16.1.2:8000/play/a01i?ts
+http://192.168.200.2:8000/play/a01i
 #EXTINF:-1 group-title="-",MTV 00s
-http://172.16.1.2:8000/play/a03w?ts
+http://192.168.200.2:8000/play/a03w
 #EXTINF:-1 group-title="-",MTV 00s SD
-http://172.16.1.2:8000/play/a02n?ts
+http://192.168.200.2:8000/play/a02n
 #EXTINF:-1 group-title="-",MTV 80s SD
-http://172.16.1.2:8000/play/a017?ts
+http://192.168.200.2:8000/play/a017
 #EXTINF:-1 group-title="-",MTV Hits
-http://172.16.1.2:8000/play/a016?ts
+http://192.168.200.2:8000/play/a016
 #EXTINF:-1 group-title="-",MTV SD
-http://172.16.1.2:8000/play/a04j?ts
+http://192.168.200.2:8000/play/a04j
 #EXTINF:-1 group-title="-",MTV SIM
-http://172.16.1.2:8000/play/a03v?ts
+http://192.168.200.2:8000/play/a03v
 #EXTINF:-1 group-title="-",Multicinema
-http://172.16.1.2:8000/play/a02r?ts
+http://192.168.200.2:8000/play/a02r
 #EXTINF:-1 group-title="-",Multipremier
-http://172.16.1.2:8000/play/a04n?ts
+http://192.168.200.2:8000/play/a04n
 #EXTINF:-1 group-title="-",NUEVA VISION
-http://172.16.1.2:8000/play/n90v?ts
+http://192.168.200.2:8000/play/n90v
 #EXTINF:-1 group-title="-",Nat Geo
-http://172.16.1.2:8000/play/a053?ts
+http://192.168.200.2:8000/play/a053
 #EXTINF:-1 group-title="-",National Geographic SD
-http://172.16.1.2:8000/play/a013?ts
+http://192.168.200.2:8000/play/a013
 #EXTINF:-1 group-title="-",Nick Jr
-http://172.16.1.2:8000/play/a00t?ts
+http://192.168.200.2:8000/play/a00t
 #EXTINF:-1 group-title="-",Nick SIM
-http://172.16.1.2:8000/play/a03o?ts
+http://192.168.200.2:8000/play/a03o
 #EXTINF:-1 group-title="-",Nickelodeon
-http://172.16.1.2:8000/play/a04a?ts
+http://192.168.200.2:8000/play/a04a
 #EXTINF:-1 group-title="-",Paramount
-http://172.16.1.2:8000/play/a054?ts
+http://192.168.200.2:8000/play/a054
 #EXTINF:-1 group-title="-",Pasiones
-http://172.16.1.2:8000/play/a058?ts
+http://192.168.200.2:8000/play/a058
 #EXTINF:-1 group-title="-",RCN
-http://172.16.1.2:8000/play/a046?ts
+http://192.168.200.2:8000/play/a046
 #EXTINF:-1 group-title="-",RCN Novelas
-http://172.16.1.2:8000/play/a02e?ts
+http://192.168.200.2:8000/play/a02e
 #EXTINF:-1 group-title="-",RHEMA TV
-http://172.16.1.2:8000/play/a04t?ts
-#EXTINF:-1 group-title="-",RedBull
-http://172.16.1.2:8000/play/a08q?ts
-#EXTINF:-1 group-title="-",Repretel Canal 4
-http://172.16.1.2:8000/play/a032?ts
-#EXTINF:-1 group-title="-",Repretel canal 11
-http://172.16.1.2:8000/play/a02b?ts
-#EXTINF:-1 group-title="-",Repretel canal 6
-http://172.16.1.2:8000/play/a02a?ts
+http://192.168.200.2:8000/play/a04t
 #EXTINF:-1 group-title="-",SEMILLITAS
-http://172.16.1.2:8000/play/a00w?ts
+http://192.168.200.2:8000/play/a00w
 #EXTINF:-1 group-title="-",SKY MX
-http://172.16.1.2:8000/play/SKYMX?ts
+http://192.168.200.2:8000/play/SKYMX
 #EXTINF:-1 group-title="-",SONY
-http://172.16.1.2:8000/play/a03k?ts
+http://192.168.200.2:8000/play/a03k
 #EXTINF:-1 group-title="-",SONY SD
-http://172.16.1.2:8000/play/a035?ts
+http://192.168.200.2:8000/play/a035
 #EXTINF:-1 group-title="-",SPACE
-http://172.16.1.2:8000/play/a04w?ts
+http://192.168.200.2:8000/play/a04w
 #EXTINF:-1 group-title="-",SPACE SD
-http://172.16.1.2:8000/play/a010?ts
+http://192.168.200.2:8000/play/a010
 #EXTINF:-1 group-title="-",STAR CHANNEL
-http://172.16.1.2:8000/play/a03i?ts
+http://192.168.200.2:8000/play/a03i
 #EXTINF:-1 group-title="-",STAR CHANNEL SD
-http://172.16.1.2:8000/play/a04c?ts
+http://192.168.200.2:8000/play/a04c
 #EXTINF:-1 group-title="-",Sembrador
-http://172.16.1.2:8000/play/a02s?ts
+http://192.168.200.2:8000/play/a02s
 #EXTINF:-1 group-title="-",Sony Movies
-http://172.16.1.2:8000/play/a01u?ts
+http://192.168.200.2:8000/play/a01u
 #EXTINF:-1 group-title="-",Star TVE
-http://172.16.1.2:8000/play/a01x?ts
-#EXTINF:-1 group-title="-",Studio Universal SD
-http://172.16.1.2:8000/play/a04q?ts
+http://192.168.200.2:8000/play/a01x
 #EXTINF:-1 group-title="-",Sun Channel
-http://172.16.1.2:8000/play/a02i?ts
-#EXTINF:-1 group-title="-",SyFy
-http://172.16.1.2:8000/play/a039?ts
+http://192.168.200.2:8000/play/a02i
 #EXTINF:-1 group-title="-",TBN Enlace
-http://172.16.1.2:8000/play/a01e?ts
+http://192.168.200.2:8000/play/a01e
 #EXTINF:-1 group-title="-",TBS
-http://172.16.1.2:8000/play/a012?ts
+http://192.168.200.2:8000/play/a012
 #EXTINF:-1 group-title="-",TCM
-http://172.16.1.2:8000/play/a02q?ts
+http://192.168.200.2:8000/play/a02q
 #EXTINF:-1 group-title="-",TELEHIT
-http://172.16.1.2:8000/play/telehit?ts
-#EXTINF:-1 group-title="-",TELEONCE
-http://172.16.1.2:8000/play/a022?ts
+http://192.168.200.2:8000/play/telehit
 #EXTINF:-1 group-title="-",TELEVISIETE
-http://172.16.1.2:8000/play/a02x?ts
+http://192.168.200.2:8000/play/a02x
 #EXTINF:-1 group-title="-",TLC SD
-http://172.16.1.2:8000/play/a03d?ts
+http://192.168.200.2:8000/play/a03d
 #EXTINF:-1 group-title="-",TLNOVELAS
-http://172.16.1.2:8000/play/tlnovelas?ts
+http://192.168.200.2:8000/play/tlnovelas
 #EXTINF:-1 group-title="-",TNT
-http://172.16.1.2:8000/play/a03q?ts
+http://192.168.200.2:8000/play/a03q
 #EXTINF:-1 group-title="-",TNT Novelas
-http://172.16.1.2:8000/play/a07i?ts
+http://192.168.200.2:8000/play/a07i
 #EXTINF:-1 group-title="-",TNT SD
-http://172.16.1.2:8000/play/a019?ts
+http://192.168.200.2:8000/play/a019
 #EXTINF:-1 group-title="-",TNT Series
-http://172.16.1.2:8000/play/a055?ts
+http://192.168.200.2:8000/play/a055
 #EXTINF:-1 group-title="-",TNT Series HD
-http://172.16.1.2:8000/play/a07u?ts
+http://192.168.200.2:8000/play/a07u
 #EXTINF:-1 group-title="-",TNT Series SD
-http://172.16.1.2:8000/play/a011?ts
+http://192.168.200.2:8000/play/a011
 #EXTINF:-1 group-title="-",TRECEVISION
-http://172.16.1.2:8000/play/a021?ts
+http://192.168.200.2:8000/play/a021
 #EXTINF:-1 group-title="-",TUDN
-http://172.16.1.2:8000/play/tudn?ts
-#EXTINF:-1 group-title="-",TVE
-http://172.16.1.2:8000/play/a04s?ts
+http://192.168.200.2:8000/play/tudn
 #EXTINF:-1 group-title="-",Teen Nick
-http://172.16.1.2:8000/play/a01k?ts
+http://192.168.200.2:8000/play/a01k
 #EXTINF:-1 group-title="-",Tele Antillas
-http://172.16.1.2:8000/play/a00n?ts
-#EXTINF:-1 group-title="-",TeleMicro
-http://172.16.1.2:8000/play/a02z?ts
+http://192.168.200.2:8000/play/a00n
 #EXTINF:-1 group-title="-",Telemundo
-http://172.16.1.2:8000/play/a98m?ts
+http://192.168.200.2:8000/play/a98m
 #EXTINF:-1 group-title="-",Telemundo Int SD
-http://172.16.1.2:8000/play/a00y?ts
+http://192.168.200.2:8000/play/a00y
 #EXTINF:-1 group-title="-",Telemundo Internacional
-http://172.16.1.2:8000/play/a01r?ts
-#EXTINF:-1 group-title="-",Telesistema
-http://172.16.1.2:8000/play/a00p?ts
-#EXTINF:-1 group-title="-",Teleunion
-http://172.16.1.2:8000/play/a027?ts
-#EXTINF:-1 group-title="-",Teleuniverso
-http://172.16.1.2:8000/play/a025?ts
+http://192.168.200.2:8000/play/a01r
 #EXTINF:-1 group-title="-",Tooncast
-http://172.16.1.2:8000/play/a033?ts
+http://192.168.200.2:8000/play/a033
 #EXTINF:-1 group-title="-",Tru TV
-http://172.16.1.2:8000/play/a00x?ts
+http://192.168.200.2:8000/play/a00x
 #EXTINF:-1 group-title="-",UNICABLE
-http://172.16.1.2:8000/play/UNICABLE?ts
+http://192.168.200.2:8000/play/UNICABLE
 #EXTINF:-1 group-title="-",UNIMAS
-http://172.16.1.2:8000/play/unimas?ts
+http://192.168.200.2:8000/play/unimas
 #EXTINF:-1 group-title="-",UNITLNOVELAS
-http://172.16.1.2:8000/play/unitlnovelas?ts
+http://192.168.200.2:8000/play/unitlnovelas
 #EXTINF:-1 group-title="-",UNIVERSAL CINEMA
-http://172.16.1.2:8000/play/a05b?ts
+http://192.168.200.2:8000/play/a05b
 #EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
-http://172.16.1.2:8000/play/a080?ts
+http://192.168.200.2:8000/play/a080
 #EXTINF:-1 group-title="-",UNIVERSAL COMEDY
-http://172.16.1.2:8000/play/a041?ts
+http://192.168.200.2:8000/play/a041
 #EXTINF:-1 group-title="-",UNIVERSAL CRIME
-http://172.16.1.2:8000/play/a040?ts
+http://192.168.200.2:8000/play/a040
 #EXTINF:-1 group-title="-",UNIVERSAL PREMIERE
-http://172.16.1.2:8000/play/a03x?ts
+http://192.168.200.2:8000/play/a03x
 #EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O
-http://172.16.1.2:8000/play/a03y?ts
+http://192.168.200.2:8000/play/a03y
 #EXTINF:-1 group-title="-",UNIVERSAL REALITY
-http://172.16.1.2:8000/play/a03z?ts
+http://192.168.200.2:8000/play/a03z
 #EXTINF:-1 group-title="-",UNIVERSO
-http://172.16.1.2:8000/play/universo?ts
+http://192.168.200.2:8000/play/universo
 #EXTINF:-1 group-title="-",Universal SD
-http://172.16.1.2:8000/play/a04l?ts
+http://192.168.200.2:8000/play/a04l
 #EXTINF:-1 group-title="-",Univision Internacional
-http://172.16.1.2:8000/play/a059?ts
+http://192.168.200.2:8000/play/a059
 #EXTINF:-1 group-title="-",WARNER
-http://172.16.1.2:8000/play/a03j?ts
+http://192.168.200.2:8000/play/a03j
 #EXTINF:-1 group-title="-",Warner SD
-http://172.16.1.2:8000/play/a036?ts
+http://192.168.200.2:8000/play/a036
 #EXTINF:-1 group-title="-",canal27.tv
-http://172.16.1.2:8000/play/a08l?ts
+http://192.168.200.2:8000/play/a08l
